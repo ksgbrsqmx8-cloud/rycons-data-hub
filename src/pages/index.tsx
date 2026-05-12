@@ -1,0 +1,1 @@
+import DataBundleWebsite from '@/components/DataBundleWebsite';\n\nexport default function Home() {\n  return <DataBundleWebsite />;\n}\n
